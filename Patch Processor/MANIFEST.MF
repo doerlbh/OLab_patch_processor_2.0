@@ -1,0 +1,3 @@
+Manifest-Version: 1.2
+Main-Class: VisualPatchProcessorMain
+Class-Path: acm.jar Patch Processor 1.2.jar
