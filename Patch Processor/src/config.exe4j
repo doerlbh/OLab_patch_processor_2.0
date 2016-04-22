@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="4.5.2" transformSequenceNumber="1">
+  <directoryPresets config="D:/Java Eclipse/workspace/Patch Processor/src" />
+  <application name="PatchProcessor" distributionSourceDir="D:/Java Eclipse/workspace/Patch Processor/src">
+    <languages>
+      <principalLanguage id="en" customLocalizationFile="" />
+    </languages>
+  </application>
+  <executable name="PatchProcessor2.0" type="2" iconSet="true" iconFile="D:/Java Eclipse/workspace/Patch Processor/PatchProcessor.ico" executableDir="." redirectStderr="true" stderrFile="error.log" stderrMode="overwrite" redirectStdout="false" stdoutFile="output.log" stdoutMode="overwrite" failOnStderrOutput="true" executableMode="1" changeWorkingDirectory="true" workingDirectory="." singleInstance="true" serviceStartType="2" serviceDependencies="" serviceDescription="" jreLocation="" executionLevel="asInvoker" checkConsoleParameter="true" globalSingleInstance="false" amd64="false">
+    <messageSet />
+    <versionInfo include="false" fileVersion="" fileDescription="" legalCopyright="" internalName="" productName="" companyName="" productVersion="" />
+  </executable>
+  <splashScreen show="true" autoOff="true" alwaysOnTop="true" width="0" height="0" bitmapFile="D:/Java Eclipse/workspace/Patch Processor/src/PatchProcessor_brand.png" java6SplashScreen="true">
+    <text>
+      <statusLine x="20" y="20" text="" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+      <versionLine x="20" y="40" text="version %VERSION%" font="Arial" fontSize="8" fontColor="0,0,0" fontWeight="500" />
+    </text>
+  </splashScreen>
+  <java mainClass="pp.VEPatchProcessorMain" vmParameters="" arguments="" allowVMPassthroughParameters="true" preferredVM="" bundleRuntime="true" minVersion="1.0" maxVersion="" allowBetaVM="true" jdkOnly="false">
+    <searchSequence>
+      <registry />
+      <envVar name="JAVA_HOME" />
+      <envVar name="JDK_HOME" />
+      <directory location="./jre7" />
+      <directory location="./jdk1.7.0_60_x64" />
+    </searchSequence>
+    <classPath>
+      <archive location="./Patch Processor2.0.jar" failOnError="false" />
+      <archive location="./acm.jar" failOnError="false" />
+      <archive location="./poi-3.10-FINAL-20140208.jar" failOnError="false" />
+      <archive location="./poi-examples-3.10-FINAL-20140208.jar" failOnError="false" />
+      <archive location="./poi-excelant-3.10-FINAL-20140208.jar" failOnError="false" />
+      <archive location="./poi-ooxml-3.10-FINAL-20140208.jar" failOnError="false" />
+      <archive location="./poi-ooxml-schemas-3.10-FINAL-20140208.jar" failOnError="false" />
+      <archive location="./poi-scratchpad-3.10-FINAL-20140208.jar" failOnError="false" />
+    </classPath>
+    <nativeLibraryDirectories />
+  </java>
+  <includedFiles />
+  <unextractableFiles />
+</exe4j>
+

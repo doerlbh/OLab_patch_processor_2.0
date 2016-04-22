@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ acm.jar PatchProcessor2.0.jar poi-3.10-FINAL-20140208
+ .jar poi-examples-3.10-FINAL-20140208.jar poi-excelant-3.10-FINAL-201
+ 40208.jar poi-ooxml-3.10-FINAL-20140208.jar poi-ooxml-schemas-3.10-FI
+ NAL-20140208.jar poi-scratchpad-3.10-FINAL-20140208.jar
+Class-Path: .
+Rsrc-Main-Class: pp.VEPatchProcessorMain
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
