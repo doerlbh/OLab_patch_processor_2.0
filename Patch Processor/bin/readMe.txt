@@ -2,7 +2,7 @@
 
 About
 
-This software is developed by Olavarria Lab, Department of Psychology, University of Washington. Main purpose of this software is to determine the patchness of ocular dominance column in V1 on ipsi and contra cortices. Other supplemental softwares includes Photoshop and ImageJ which serve as data sources. 
+This software is developed by Baihan Lin, Olavarria Lab, Department of Psychology, University of Washington. Main purpose of this software is to determine the patchness of ocular dominance column in V1 on ipsi and contra cortices. Other supplemental softwares includes Photoshop and ImageJ which serve as data sources. 
 
 To use this software, you need to prepare the data generated from ImageJ's grayValue plot profile. Please save the data file ending with "data.txt" to be identified as target files. 
 
@@ -12,4 +12,4 @@ To use this software, you need to prepare the data generated from ImageJ's grayV
 
 --"ImageJ Component": Click which will leads to an interface where we can import our tiff file and draw our line on the interface to be analyzed all together. This includes a plugin of ImageJ into our software but will facilitate the entire process of analyzing patchness of ODC.
 
-Version 1.0 was designed by Baihan Lin, Mentored by Dr. Robyn Laing and Prof. Jaime Olavarria. As stated above, more functions are stillunder development. All complaints and suggestions please be sent to sunnylin@uw.edu, and I am more than willing to improve the user experience and functionality of this software.
+Version 1.0 and 2.0 was designed independently by Baihan Lin, Mentored by Dr. Robyn Laing and Prof. Jaime Olavarria. As stated above, more functions are stillunder development. All complaints and suggestions please be sent to sunnylin@uw.edu, and I am more than willing to improve the user experience and functionality of this software.
