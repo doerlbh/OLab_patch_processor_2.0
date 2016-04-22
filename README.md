@@ -19,4 +19,4 @@ To use this software, you need to prepare the data generated from ImageJ's grayV
 
 --"ImageJ Component": Click which will leads to an interface where we can import our tiff file and draw our line on the interface to be analyzed all together. This includes a plugin of ImageJ into our software but will facilitate the entire process of analyzing patchness of ODC.
 
-Version 1.0 and 2.0 was designed independently by Baihan Lin, Mentored by Dr. Robyn Laing and Prof. Jaime Olavarria. As stated above, more functions are stillunder development. All complaints and suggestions please be sent to sunnylin@uw.edu, and I am more than willing to improve the user experience and functionality of this software.
+Version 1.0 and 2.0 was developed independently by Baihan Lin, Mentored by Dr. Robyn Laing and Prof. Jaime Olavarria. As stated above, more functions are stillunder development. All complaints and suggestions please be sent to sunnylin@uw.edu, and I am more than willing to improve the user experience and functionality of this software.
