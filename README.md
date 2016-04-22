@@ -3,4 +3,4 @@ A GUI to analysis the patchiness of V1 ocular dominance columns
 
 Youtube Demo: <https://youtu.be/dGP5D3Q4aGc>
 
-By Baihan Lin, May 2014
+By Baihan Lin, Olavarria Lab, May 2014
