@@ -10,5 +10,12 @@
 	<classpathentry kind="lib" path="D:/Java Eclipse/workspace/Patch Processor/src/poi-ooxml-3.10-FINAL-20140208.jar"/>
 	<classpathentry kind="lib" path="D:/Java Eclipse/workspace/Patch Processor/src/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
 	<classpathentry kind="lib" path="D:/Java Eclipse/workspace/Patch Processor/src/poi-scratchpad-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/acm.jar"/>
+	<classpathentry kind="lib" path="src/Patch Processor/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/Patch Processor/poi-examples-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/Patch Processor/poi-excelant-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/Patch Processor/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/Patch Processor/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="src/Patch Processor/poi-scratchpad-3.10-FINAL-20140208.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
